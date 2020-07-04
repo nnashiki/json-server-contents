@@ -15,5 +15,5 @@ curl --include http://localhost:3000/pokemon
 - POST
 
 ```
-curl -X POST -H "Content-Type: application/json" -d '{"name":"新ポケモン"}' --include  http://localhost:3000/pokemon
+curl -X POST -H "Content-Type: application/json" -d '{"name":"new pokemon"}' --include  http://localhost:3000/pokemon
 ```

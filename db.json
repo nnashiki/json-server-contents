@@ -1,7 +1,102 @@
 {
-  "profile": { "name": "typicode" },
+  "profile": {
+    "name": "typicode"
+  },
   "spot": [
-    {"id":1, "X":-140987.23691179, "Y":-71607.046446965, "lat":34.726604791, "lng":137.718115230},
-    {"id":2, "X":-140987.23691179, "Y":-71607.046446965, "lat":34.726604791, "lng":137.718115230}
+    {
+      "id": 1,
+      "X": -140987.23691179,
+      "Y": -71607.046446965,
+      "lat": 34.726604791,
+      "lng": 137.718115230
+    },
+    {
+      "id": 2,
+      "X": -140987.23691179,
+      "Y": -71607.046446965,
+      "lat": 34.726604791,
+      "lng": 137.718115230
+    }
+  ],
+  "pokemon": [
+    {
+      "no": 1,
+      "name": "フシギダネ",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [
+        2
+      ],
+      "types": [
+        "くさ",
+        "どく"
+      ],
+      "abilities": [
+        "しんりょく"
+      ],
+      "hiddenAbilities": [
+        "ようりょくそ"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defence": 49,
+        "spAttack": 65,
+        "spDefence": 65,
+        "speed": 45
+      }
+    },
+    {
+      "no": 2,
+      "name": "フシギソウ",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [
+        3
+      ],
+      "types": [
+        "くさ",
+        "どく"
+      ],
+      "abilities": [
+        "しんりょく"
+      ],
+      "hiddenAbilities": [
+        "ようりょくそ"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 62,
+        "defence": 63,
+        "spAttack": 80,
+        "spDefence": 80,
+        "speed": 60
+      }
+    },
+    {
+      "no": 3,
+      "name": "フシギバナ",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "types": [
+        "くさ",
+        "どく"
+      ],
+      "abilities": [
+        "しんりょく"
+      ],
+      "hiddenAbilities": [
+        "ようりょくそ"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defence": 83,
+        "spAttack": 100,
+        "spDefence": 100,
+        "speed": 80
+      }
+    }
   ]
 }
